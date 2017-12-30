@@ -1,0 +1,8 @@
+@ARTICLE{Wu_Vision2017, 
+author={Y. Wu and Y. Sui and G. Wang}, 
+journal={IEEE Access}, 
+title={Vision-Based Real-Time Aerial Object Localization and Tracking for UAV Sensing System}, 
+year={2017}, 
+volume={5}, 
+pages={23969-23978}, 
+}
