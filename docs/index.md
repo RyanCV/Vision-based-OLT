@@ -1,6 +1,12 @@
 ## Vision-based Real-Time Aerial Object Localization and Tracking for UAV Sensing System
 
-[Yuanwei Wu](https://ryancv.github.io), [Yao Sui](http://www.suiyao.me/), and [Guanghui Wang](http://www.ittc.ku.edu/~ghwang/)
+[Yuanwei Wu<sup>*</sup>](https://ryancv.github.io), [Yao Sui<sup>+</sup>](http://www.suiyao.me/), and [Guanghui Wang<sup>*</sup>](http://www.ittc.ku.edu/~ghwang/)
+
+<sup>*</sup> The University of Kansas, <sup>+</sup> Harvard Medical School
+
+In IEEE Access 2017
+
+[PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8080161)      [Bibtex](Wu_IEEE_Access_2017.txt)      [Github](https://github.com/RyanCV/Vision-based-OLT)
 
 ![Post_processing](Post_processing.png)
 
@@ -11,11 +17,11 @@ The paper focuses on the problem of vision-based obstacle detection and tracking
 
 ### Video Demo
 <a href="https://youtu.be/sTWxcMGjurQ" target="_blank"><img src="Aircraft_00001.jpg" 
-alt="Aircraft" width="190" height="180" border="10" /></a>
-<a href="https://youtu.be/qM8qkyDjyH4" target="_blank"><img src="airplane_001_00001.jpg" alt="Aircraft" width="190" height="180" border="10" /></a> 
+alt="Aircraft" width="180" height="180" border="10" /></a>
+<a href="https://youtu.be/qM8qkyDjyH4" target="_blank"><img src="airplane_001_00001.jpg" alt="Aircraft" width="180" height="180" border="10" /></a> 
 <a href="https://youtu.be/lHKTiI4q51k" target="_blank"><img src="big_2_00001.jpg" 
-alt="Aircraft" width="190" height="180" border="10" /></a>
-<a href="https://youtu.be/WNroLMzSQu0" target="_blank"><img src="airplane_011_00001.jpg" alt="Aircraft" width="190" height="180" border="10" /></a> 
+alt="Aircraft" width="180" height="180" border="10" /></a>
+<a href="https://youtu.be/WNroLMzSQu0" target="_blank"><img src="airplane_011_00001.jpg" alt="Aircraft" width="180" height="180" border="10" /></a> 
 
   1st Column                     | 2nd Column                | 3rd Column                | 4th Column      
   :--------------------:         | :--------------------:    | :--------------------:    | :--------------------:
@@ -23,10 +29,10 @@ alt="Aircraft" width="190" height="180" border="10" /></a>
 
 
 <a href="https://youtu.be/oYNIHqSUmW4" target="_blank"><img src="airplane_006_00001.jpg" 
-alt="Aircraft" width="260" height="180" border="10" /></a>
-<a href="https://youtu.be/Eprg_bQAacQ" target="_blank"><img src="airplane_016_00001.jpg" alt="Aircraft" width="260" height="180" border="10" /></a> 
+alt="Aircraft" width="210" height="180" border="10" /></a>
+<a href="https://youtu.be/Eprg_bQAacQ" target="_blank"><img src="airplane_016_00001.jpg" alt="Aircraft" width="210" height="180" border="10" /></a> 
 <a href="https://youtu.be/jjhk0-bglpQ" target="_blank"><img src="Skyjumping_ce_00001.jpg" 
-alt="Aircraft" width="260" height="180" border="10" /></a>
+alt="Aircraft" width="210" height="180" border="10" /></a>
 
   1st Column                     | 2nd Column                | 3rd Column                     
   :--------------------:         | :--------------------:    | :--------------------:        
