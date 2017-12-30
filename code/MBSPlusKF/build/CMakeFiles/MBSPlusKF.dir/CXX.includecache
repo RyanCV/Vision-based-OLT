@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuanwei/MyresearchDocs/Research_08122015/submitted_Research_Papers/TCSVT_10102016/code/MBSPlusKF/MBSPlusKF.cpp
+iostream
+-
+ctime
+-
+opencv2/opencv.hpp
+/home/yuanwei/MyresearchDocs/Research_08122015/submitted_Research_Papers/TCSVT_10102016/code/MBSPlusKF/opencv2/opencv.hpp
+MBSPlusKF.hpp
+/home/yuanwei/MyresearchDocs/Research_08122015/submitted_Research_Papers/TCSVT_10102016/code/MBSPlusKF/MBSPlusKF.hpp
+vector
+-
+cmath
+-
+cstring
+-
+sys/types.h
+-
+sys/stat.h
+-
+
+/home/yuanwei/MyresearchDocs/Research_08122015/submitted_Research_Papers/TCSVT_10102016/code/MBSPlusKF/MBSPlusKF.hpp
+imdebug.h
+-
+fstream
+-
+vector
+-
+opencv2/opencv.hpp
+-
+
