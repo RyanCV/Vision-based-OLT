@@ -2,7 +2,7 @@
 
 [Yuanwei Wu](https://ryancv.github.io), Yao Sui, and [Guanghui Wang](http://www.ittc.ku.edu/~ghwang/)
 
-[image](Post_processing.png)
+![useful image]({{ site.url }}/Post_processing.png)
 ### Abstract
 
 The paper focuses on the problem of vision-based obstacle detection and tracking for unmanned aerial vehicle navigation. A real-time object localization and tracking strategy from monocular image sequences is developed by effectively integrating the object detection and tracking into a dynamic Kalman model. At the detection stage, the object of interest is automatically detected and localized from a saliency map computed via the image background connectivity cue at each frame; at the tracking stage, a Kalman filter is employed to provide a coarse prediction of the object state, which is further refined via a local detector incorporating the saliency map and the temporal information between two consecutive frames. Compared to existing methods, the proposed approach does not require any manual initialization for tracking, runs much faster than the state-of-the-art trackers of its kind, and achieves competitive tracking performance on a large number of image sequences. Extensive experiments demonstrate the effectiveness and superior performance of the proposed approach.
