@@ -2,42 +2,44 @@
 
 [Yuanwei Wu](https://ryancv.github.io), [Yao Sui](http://www.suiyao.me/), and [Guanghui Wang](http://www.ittc.ku.edu/~ghwang/)
 
-<img href="Post_processing.png", style="width:200px;height=100px">
-
+![Post_processing](Post_processing.png)
 
 ### Abstract
 
 The paper focuses on the problem of vision-based obstacle detection and tracking for unmanned aerial vehicle navigation. A real-time object localization and tracking strategy from monocular image sequences is developed by effectively integrating the object detection and tracking into a dynamic Kalman model. At the detection stage, the object of interest is automatically detected and localized from a saliency map computed via the image background connectivity cue at each frame; at the tracking stage, a Kalman filter is employed to provide a coarse prediction of the object state, which is further refined via a local detector incorporating the saliency map and the temporal information between two consecutive frames. Compared to existing methods, the proposed approach does not require any manual initialization for tracking, runs much faster than the state-of-the-art trackers of its kind, and achieves competitive tracking performance on a large number of image sequences. Extensive experiments demonstrate the effectiveness and superior performance of the proposed approach.
 
 
-### Markdown
+### Video Demo
+<a href="https://youtu.be/sTWxcMGjurQ" target="_blank"><img src="Aircraft_00001.jpg" 
+alt="Aircraft" width="201" height="180" border="10" /></a>
+<a href="https://youtu.be/qM8qkyDjyH4" target="_blank"><img src="airplane_001_00001.jpg" alt="Aircraft" width="210" height="180" border="10" /></a> 
+<a href="https://youtu.be/lHKTiI4q51k" target="_blank"><img src="big_2_00001.jpg" 
+alt="Aircraft" width="210" height="180" border="10" /></a>
+<a href="https://youtu.be/WNroLMzSQu0" target="_blank"><img src="airplane_011_00001.jpg" alt="Aircraft" width="210" height="180" border="10" /></a> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  1st Column                     | 2nd Column                | 3rd Column                | 4th Column      
+  :--------------------:         | :--------------------:    | :--------------------:    | :--------------------:
+  Aircraft                       | airplane_001              | big_2                     | airplane_011
 
-```markdown
-Syntax highlighted code block
+<a href="https://youtu.be/oYNIHqSUmW4" target="_blank"><img src="airplane_006_00001.jpg" 
+alt="Aircraft" width="280" height="180" border="10" /></a>
+<a href="https://youtu.be/Eprg_bQAacQ" target="_blank"><img src="airplane_016_00001.jpg" alt="Aircraft" width="280" height="180" border="10" /></a> 
+<a href="https://youtu.be/jjhk0-bglpQ" target="_blank"><img src="Skyjumping_ce_00001.jpg" 
+alt="Aircraft" width="280" height="180" border="10" /></a>
 
-# Header 1
-## Header 2
-### Header 3
+  1st Column                     | 2nd Column                | 3rd Column                     
+  :--------------------:         | :--------------------:    | :--------------------:        
+  airplane_006                   | airplane_016              | Skyjumping_ce                    
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Download
 
-[Link](url) and ![Image](src)
-```
+Our code is available on [GitHub](https://github.com/RyanCV/Vision-based-OLT), and the dataset is available on [Google drive](https://drive.google.com/open?id=10pe0fdDeKo4ooflTg6wweXG9hKMV3yEp).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Acknowledgement
 
-### Jekyll Themes
+This work was supported in part by the National Aeronautics and Space Administration LEARN II Program under Grant NNX15AN94N, in part by the General Research Fund of the University of Kansas under Grant 2228901, and in part by the Kansas NASA EPSCoR Program under Grant KNEP-PDG-10-2017-KU.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RyanCV/Vision-based-OLT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Copyright &copy; 2017 The University of Kansas
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
