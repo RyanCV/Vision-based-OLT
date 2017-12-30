@@ -17,11 +17,11 @@ The paper focuses on the problem of vision-based obstacle detection and tracking
 
 ### Video Demo
 <a href="https://youtu.be/sTWxcMGjurQ" target="_blank"><img src="Aircraft_00001.jpg" 
-alt="Aircraft" width="180" height="180" border="10" /></a>
-<a href="https://youtu.be/qM8qkyDjyH4" target="_blank"><img src="airplane_001_00001.jpg" alt="Aircraft" width="180" height="180" border="10" /></a> 
+alt="Aircraft" width="170" height="180" border="10" /></a>
+<a href="https://youtu.be/qM8qkyDjyH4" target="_blank"><img src="airplane_001_00001.jpg" alt="Aircraft" width="180" height="170" border="10" /></a> 
 <a href="https://youtu.be/lHKTiI4q51k" target="_blank"><img src="big_2_00001.jpg" 
-alt="Aircraft" width="180" height="180" border="10" /></a>
-<a href="https://youtu.be/WNroLMzSQu0" target="_blank"><img src="airplane_011_00001.jpg" alt="Aircraft" width="180" height="180" border="10" /></a> 
+alt="Aircraft" width="170" height="180" border="10" /></a>
+<a href="https://youtu.be/WNroLMzSQu0" target="_blank"><img src="airplane_011_00001.jpg" alt="Aircraft" width="180" height="170" border="10" /></a> 
 
   1st Column                     | 2nd Column                | 3rd Column                | 4th Column      
   :--------------------:         | :--------------------:    | :--------------------:    | :--------------------:
